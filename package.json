@@ -18,7 +18,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "terser-webpack-plugin": "^5.3.14",
-    "tesseract.js": "^5.0.2"
+    "tesseract.js": "^5.0.2",
+    "webpack-bundle-analyzer": "^4.10.2"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
