@@ -1,0 +1,7 @@
+
+<svg width="144" height="144" viewBox="0 0 144 144" xmlns="http://www.w3.org/2000/svg">
+  <rect width="144" height="144" fill="#2563eb" rx="12"/>
+  <circle cx="72" cy="72" r="48" fill="white" stroke="#1e40af" stroke-width="2"/>
+  <path d="M48 72 L96 72 M72 48 L72 96" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+  <text x="72" y="134" text-anchor="middle" fill="white" font-family="Arial" font-size="8" font-weight="bold">MTG</text>
+</svg>
